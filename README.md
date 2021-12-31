@@ -1,1 +1,1 @@
-# simple-interst-calculator
+# simple-interest-calculator
